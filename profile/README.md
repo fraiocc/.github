@@ -1,9 +1,11 @@
 # fraio studio
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Minecraft%20Engineering%20%26%20UI-00f5d4?style=flat-square&labelColor=111111" alt="Focus">
-  <img src="https://img.shields.io/badge/Tech-Java%20%7C%20Kotlin%20%7C%20TypeScript-white?style=flat-square&labelColor=111111" alt="Tech Stack">
-  <img src="https://img.shields.io/badge/Speed-Kusursuz%2020%20TPS-black?style=flat-square&labelColor=111111" alt="Speed">
+<img src="https://img.shields.io/badge/Focus-Minecraft%20Engineering%20%26%20UI-7c3aed?style=flat-square&labelColor=0a0a0a&color=7c3aed" alt="Focus">
+
+<img src="https://img.shields.io/badge/Tech-Java%20%7C%20Kotlin%20%7C%20TypeScript-38bdf8?style=flat-square&labelColor=0a0a0a&color=38bdf8" alt="Tech Stack">
+
+<img src="https://img.shields.io/badge/Speed-Kusursuz%2020%20TPS-22c55e?style=flat-square&labelColor=0a0a0a&color=22c55e" alt="Speed">
 </p>
 
 Biz, klasik ve alışılmış, herkesin yapabildiği basit şeylerdense daha yenilikçi, günümüz standartlarına uygun, yepyeni ürünler ortaya çıkarıyoruz.
