@@ -54,14 +54,6 @@ Direct guidance on server architecture, growth planning, and promotion strategy.
 
 <br>
 
----
-
-## Going Global
-
-After much thought and deliberation, we've decided to expand our horizons. From now on, we're producing content for a worldwide audience, not just a local one.
-
----
-
 <br>
 
 <table width="100%">
@@ -141,14 +133,6 @@ Sunucu mimarisi, büyüme planlaması ve tanıtım stratejileri.
 </table>
 
 <br>
-
----
-
-## Globale Açılıyoruz
-
-Uzun bir düşünme sürecinin ardından hedeflerimizi genişletme kararı aldık. Artık sadece yerel değil, tüm dünyaya hitap eden içerikler üretiyoruz.
-
----
 
 <br>
 
